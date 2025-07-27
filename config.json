@@ -87,7 +87,28 @@
     },
     "girigiri": {
       "api": "https://anime.girigirilove.com/api.php/provide/vod",
-      "name": "girigiri爱动漫"
+      "name": "girigiri爱动漫",
+      "detail": "https://anime.girigirilove.com"
+    },
+    "kimani": {
+      "api": "https://kimani22.com/index.php/vod",
+      "name": "kimani",
+      "detail": "https://kimani22.com"
+    },
+    "dms": {
+      "api": "https://www.agedms.com/index.php/vod",
+      "name": "dms",
+      "detail": "https://www.agedms.com"
+    },
+    "omofunz": {
+      "api": "https://omofunz.com/index.php/vod",
+      "name": "omofunz",
+      "detail": "https://omofunz.com"
+    },
+    "fqdm": {
+      "api": "http://www.fqdm.cc/index.php/vod",
+      "name": "fqdm",
+      "detail": "http://www.fqdm.cc"
     }
   }
 }
